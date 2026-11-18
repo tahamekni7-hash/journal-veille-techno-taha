@@ -1,11 +1,11 @@
 # Session 1 — 27/10/2026
 
-## What I did
-- Created the GitHub repository and set up the technology-watch journal.
-- Took part in Workshop 1 about the basics of AI.
+## Ce que j'ai fait
+- Création du dépôt GitHub et mise en place du journal de veille technologique.
+- Participation au Workshop 1 sur les bases de l'intelligence artificielle.
 
-## What I learned
-- The basic ideas behind generative AI, machine learning, and deep learning.
+## Ce que j'ai appris
+- Les notions de base de l'IA générative, du Machine Learning et du Deep Learning.
 
-## Difficulties
-- None so far.
+## Difficultés rencontrées
+- Aucune pour le moment.
