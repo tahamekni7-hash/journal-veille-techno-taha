@@ -1,26 +1,26 @@
-# Session 4 — Building Jarvis, a local AI assistant
-**Date:** 18/11/2026
+# Session 4 — Création de Jarvis, un assistant IA local
+**Date :** 18/11/2026
 
-## What I did
-- Chose Ollama so the assistant could run on my computer without a paid AI API.
-- Set up the Qwen 3.5 4B model and connected a Python program to Ollama on my computer.
-- Added instructions for Jarvis's helpful personality and to help it understand casual English and slang.
-- Added tools for arithmetic and checking the time.
-- Added a local library of notes so Jarvis can search text and Markdown files for useful information.
-- Added chat history and saved preferences on my computer.
-- Built a desktop chat window with a dark design, chat history, knowledge, and personalization buttons.
+## Ce que j'ai fait
+- J'ai choisi Ollama pour faire fonctionner Jarvis sur mon ordinateur sans API payante.
+- J'ai connecté un programme Python au modèle Qwen 3.5 4B avec Ollama.
+- J'ai ajouté des consignes pour définir la personnalité de Jarvis et l'aider à comprendre l'anglais courant et l'argot.
+- J'ai ajouté des outils pour faire des calculs et donner l'heure actuelle.
+- J'ai créé une bibliothèque locale de notes. Jarvis peut rechercher dans des fichiers texte et Markdown pour trouver des informations utiles.
+- J'ai ajouté l'historique des conversations et l'enregistrement des préférences sur l'ordinateur.
+- J'ai créé une interface de discussion avec Tkinter, un thème sombre et des boutons pour les conversations, les connaissances et la personnalisation.
 
-## What I learned
-- A language model can be connected to an app through a local service.
-- Adding documents to a knowledge library helps an assistant answer questions about those documents; it does not retrain the model.
-- Chat history and saved preferences can give an assistant useful context between sessions.
+## Ce que j'ai appris
+- Un modèle de langage peut être relié à une application par un service local.
+- Ajouter des documents à une bibliothèque de connaissances aide l'assistant à répondre sur leur contenu, mais ne réentraîne pas le modèle.
+- L'historique et les préférences peuvent fournir du contexte à l'assistant entre les conversations.
 
-## Difficulties
-- I first tried a cloud API, but it required paid credits. I changed the project to use a local model instead.
-- I had to connect the model, chat window, saved conversations, and local knowledge features so they worked together.
+## Difficultés rencontrées
+- L'API en ligne nécessitait des crédits payants. J'ai donc remplacé cette solution par un modèle local.
+- J'ai dû relier le modèle, l'interface, l'historique et la bibliothèque de connaissances.
 
-## Tools used
+## Outils utilisés
 - Python
 - Ollama
 - Qwen 3.5 4B
-- Tkinter for the desktop interface
+- Tkinter pour l'interface graphique
