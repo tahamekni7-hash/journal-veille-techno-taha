@@ -1,13 +1,13 @@
 # Session 3 — 30/10/2026
 
-## What I did
-- Reviewed a scientific article about an ECG-based scoring system for predicting heart failure.
-- Identified the article's question, goals, method, results, and limitations.
-- Looked for unclear statistics and methodological details.
+## Ce que j'ai fait
+- Analyse d'un article scientifique sur un système de score ECG pour prédire l'insuffisance cardiaque.
+- Identification de la question, des objectifs, de la méthode, des résultats et des limites de l'article.
+- Recherche de statistiques ou de détails méthodologiques peu clairs.
 
-## What I learned
-- How to review a medical or technical research article, including logistic regression, odds ratios, sensitivity, and specificity.
-- How to check data carefully and notice unclear or inconsistent claims.
+## Ce que j'ai appris
+- Comment analyser un article médical ou technique, notamment la régression logistique, les rapports de cotes, la sensibilité et la spécificité.
+- Comment vérifier les données et repérer des affirmations ambiguës ou incohérentes.
 
-## Difficulties
-- None.
+## Difficultés rencontrées
+- Aucune.
